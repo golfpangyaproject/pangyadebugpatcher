@@ -1,5 +1,7 @@
 {
   "version": "1.0.1",
+  "maintenance": true,
+  "maintenance_message": "The server is currently under maintenance. Please try again later!",
   "download_url": "https://github.com/golfpangyaproject/pangyadebugpatcher/releases/download/pangyadebugpatch/debug-patch.zip",
   "executable": "Debug Center.exe",
   "patch_notes": "Added Pangya Season 4 course assets, updated server connection endpoints, and fixed texture bugs.",
