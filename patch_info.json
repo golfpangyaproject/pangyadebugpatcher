@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "maintenance": true,
+  "maintenance": false,
   "maintenance_message": "The server is currently under maintenance. Please try again later!",
   "download_url": "https://github.com/golfpangyaproject/pangyadebugpatcher/releases/download/pangyadebugpatch/debug-patch.zip",
   "executable": "Debug Center.exe",
