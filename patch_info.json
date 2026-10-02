@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "download_url": "https://drive.usercontent.google.com/download?id=12KU7FKIBbHBVwm_Rt8HMxgmbDHAYfDDT&export=download&authuser=0&confirm=t&uuid=2ec2f144-0851-4b62-9acb-c8eb0d3ea855&at=AMrWOn2uNmUkY6xU_hxz1VsXsEXz%3A1790968912717",
+  "download_url": "https://github.com/golfpangyaproject/pangyadebugpatcher/releases/download/pangyadebugpatch/debug-patch.zip",
   "executable": "Debug Center.exe",
   "patch_notes": "Added Pangya Season 4 course assets, updated server connection endpoints, and fixed texture bugs.",
   "file_size_bytes": 104857600
